@@ -1,6 +1,6 @@
 owner=472221987151020032
-prefix=r
-game=Statr  rplay
+prefix=z
+game=Statr  zplay
 stayinchannel=true
 songinstatus=false
 token=NTg5ODQ0Mjk3MzgyMzYzMTYy.XQZluQ.vgyxak_oh-WTg7aU0SVqIEZda5I
